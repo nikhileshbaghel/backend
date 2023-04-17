@@ -4,7 +4,10 @@ const dburl = process.env.DB_URL;
 
 //const mongoURI = "mongodb://localhost:27017/inotebook?readPreference=primary&appname=MongoDB%20Compass&ssl=false";
 
- const mongoURI =  "mongodb+srv://i-notebook-safe:nikhilesh123@cluster0.md4jfoz.mongodb.net/?retryWrites=true&w=majority"; //change for localhost
+const mongoURI = "mongodb+srv://i-notebook-safe:nikhilesh123@cluster0.md4jfoz.mongodb.net/?retryWrites=true&w=majority";
+
+
+// const mongoURI =  "mongodb+srv://i-notebook-safe:nikhilesh123@cluster0.md4jfoz.mongodb.net/?retryWrites=true&w=majority"; //change for localhost
 
 //const mongoURI = dburl;
 
